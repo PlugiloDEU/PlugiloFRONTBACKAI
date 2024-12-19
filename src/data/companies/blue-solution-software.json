@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10009",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "blue:solution software",
+  "details": "blue:solution software GmbH, founded in 2001, develops commercial software for the construction industry. Their flagship product, TopKontor Handwerk, is trusted by over 12,000 companies for streamlined operations and efficient time tracking solutions.",
+  "requiredClearance": "PRIVATE",
+  "name": "blue:solution software",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Internet Software & Services", "Software & Services"],
+  "tags": ["nginx", "ubuntu", "woo_commerce", "wordpress", "recaptcha", "google_tag_manager", "apache_http_server", "google_search_appliance"],
+  "socialMedia": {},
+  "description": "blue:solution software GmbH, founded in 2001, develops commercial software for the construction industry. Their flagship product, TopKontor Handwerk, is trusted by over 12,000 companies for streamlined operations and efficient time tracking solutions.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

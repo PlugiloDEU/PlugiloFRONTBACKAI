@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10004",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "bit elements",
+  "details": "bit elements is a company that provides a wide range of electronic components and accessories. They offer competitive prices and ensure that all products are inclusive of VAT. Customers can also expect fast and reliable shipping services.",
+  "requiredClearance": "PRIVATE",
+  "name": "bit elements",
+  "address": "N/A",
+  "zipCode": "5736254",
+  "city": "Germany",
+  "country": "Germany",
+  "logo": "https://logo.clearbit.com/bit-elements.de",
+  "images": [],
+  "category": [],
+  "tags": ["apache", "shopware"],
+  "socialMedia": {},
+  "description": "bit elements is a company that provides a wide range of electronic components and accessories. They offer competitive prices and ensure that all products are inclusive of VAT. Customers can also expect fast and reliable shipping services.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

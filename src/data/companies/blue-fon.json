@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10016",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Blue Fon e. K",
+  "details": "Blue Fon e. K is a German company offering innovative electronic accessories and gadgets for phones and audio devices.",
+  "requiredClearance": "PRIVATE",
+  "name": "Blue Fon e. K",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Internet Software & Services", "Software & Services"],
+  "tags": ["google_analytics", "microsoft_exchange_online", "outlook"],
+  "socialMedia": {},
+  "description": "Blue Fon e. K is a German company offering innovative electronic accessories and gadgets for phones and audio devices.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

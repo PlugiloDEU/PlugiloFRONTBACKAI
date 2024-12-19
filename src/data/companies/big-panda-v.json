@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10011",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "BIG PANDA V",
+  "details": "Gesellschaftsspiele, Brettspiele & Tabletops bei BigPandaV Dein #1 Shop für Tabletops | Gesellschaftsspiele | Brettspiele & Zubehör • Viele Aktionsartikel auf Lager • Abholen vor Ort • Riesen Auswahl• Schnelle Lieferung",
+  "requiredClearance": "PRIVATE",
+  "name": "BIG PANDA V",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Specialty Retail", "Retailing"],
+  "tags": ["paypal", "wordpress", "amazon_s3", "pinterest", "vimeo", "facebook_connect", "double_click", "recaptcha", "google_tag_manager", "woo_commerce", "extend"],
+  "socialMedia": {},
+  "description": "Gesellschaftsspiele, Brettspiele & Tabletops bei BigPandaV Dein #1 Shop für Tabletops | Gesellschaftsspiele | Brettspiele & Zubehör • Viele Aktionsartikel auf Lager • Abholen vor Ort • Riesen Auswahl• Schnelle Lieferung",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

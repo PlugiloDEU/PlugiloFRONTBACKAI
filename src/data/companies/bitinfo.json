@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10017",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "BITinfo",
+  "details": "BITinfo Mainz offers a comprehensive concept for your IT infrastructure, covering IT project planning, training, procurement, solutions, service, and archiving.",
+  "requiredClearance": "PRIVATE",
+  "name": "BITinfo",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Internet Software & Services", "Software & Services"],
+  "tags": ["apache", "facebook_advertiser", "facebook_connect", "google_tag_manager", "hotjar", "mailchimp", "microsoft_exchange_online", "outlook", "microsoft_office_365", "google_maps", "google_analytics", "apache_http_server"],
+  "socialMedia": {},
+  "description": "BITinfo Mainz offers a comprehensive concept for your IT infrastructure, covering IT project planning, training, procurement, solutions, service, and archiving.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

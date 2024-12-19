@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10012",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Billigdrucken.de",
+  "details": "Billigdrucken.de is a company that specializes in providing affordable printing supplies such as toner cartridges and printer inks.",
+  "requiredClearance": "PRIVATE",
+  "name": "Billigdrucken.de",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "United States",
+  "logo": "",
+  "images": [],
+  "category": ["Commercial Services & Supplies", "Commercial & Professional Services"],
+  "tags": ["google_tag_manager", "nginx", "google_analytics"],
+  "socialMedia": {},
+  "description": "Billigdrucken.de is a company that specializes in providing affordable printing supplies such as toner cartridges and printer inks.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["ENGLISH"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "blue-music",
+  "status": "active",
+  "level": "normal",
+  "lastAccessed": "2023-10-12T00:00:00Z",
+  "subject": "Company Record",
+  "details": "Detailed information about Blue Music.de",
+  "requiredClearance": "public",
+  "name": "Blue Music.de",
+  "address": "Unknown",
+  "zipCode": "Unknown",
+  "city": "Unknown",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Electrical Equipment"],
+  "tags": [
+    "Retail",
+    "Events",
+    "Electrical",
+    "Industrials & Manufacturing",
+    "Audio/Visual Equipment",
+    "Audio Production",
+    "Event Planning",
+    "Music",
+    "Food and Beverage Distribution",
+    "Electronic Parts",
+    "Electrical Supplies",
+    "Distribution and Wholesalers",
+    "Electronics",
+    "B2B"
+  ],
+  "socialMedia": {
+    "twitter": "",
+    "linkedin": ""
+  },
+  "description": "Blue Music.de offers a variety of high-quality speaker chassis and PA technology from top brands like Sica, Beyma, Eighteensound, B&C Speakers, and BMS, with email updates on new products and deals.",
+  "sourceFound": "TrustedShops.de",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["de"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {}
+}

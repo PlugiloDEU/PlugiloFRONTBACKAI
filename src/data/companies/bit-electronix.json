@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10001",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Bit Electronix",
+  "details": "Innovative electronic products and solutions for diverse industries, ensuring cutting-edge technology and customer satisfaction.",
+  "requiredClearance": "PRIVATE",
+  "name": "Bit Electronix",
+  "address": "1234 Innovation St, Suite 100",
+  "zipCode": "5736254",
+  "city": "Germany",
+  "country": "Germany",
+  "logo": "https://logo.clearbit.com/bit-electronix.de",
+  "images": [],
+  "category": ["Consumer Goods", "Consumer Durables & Apparel"],
+  "tags": ["debian", "digital_ocean", "google_tag_manager", "apache", "amazon_payments"],
+  "socialMedia": {},
+  "description": "Bit Electronix: Innovative electronic products and solutions for diverse industries, ensuring cutting-edge technology and customer satisfaction.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10023",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "brand-distribution.com",
+  "details": "brand-distribution.com is your specialist for Smart Home and Audio solutions, as well as accessories for smartphones, tablets, TVs, laptops, and PCs.",
+  "requiredClearance": "PRIVATE",
+  "name": "brand-distribution.com",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Electrical Equipment", "Capital Goods"],
+  "tags": ["apache", "java", "microsoft_exchange_online", "outlook", "recaptcha", "microsoft_office_365"],
+  "socialMedia": {},
+  "description": "brand-distribution.com is your specialist for Smart Home and Audio solutions, as well as accessories for smartphones, tablets, TVs, laptops, and PCs.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

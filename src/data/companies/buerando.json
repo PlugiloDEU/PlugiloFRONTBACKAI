@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10028",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "buerando.de",
+  "details": "",
+  "requiredClearance": "PRIVATE",
+  "name": "buerando.de",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "",
+  "logo": "",
+  "images": [],
+  "category": [],
+  "tags": [],
+  "socialMedia": {},
+  "description": "",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": [],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

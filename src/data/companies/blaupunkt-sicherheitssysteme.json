@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10013",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Blaupunkt Sicherheitssysteme",
+  "details": "Blaupunkt Sicherheitssysteme offers professional security solutions for homes, businesses, and apartments. They provide high-quality products and services for alarm systems, video surveillance, and internet-based security alerts.",
+  "requiredClearance": "PRIVATE",
+  "name": "Blaupunkt Sicherheitssysteme",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Professional Services", "Commercial & Professional Services"],
+  "tags": ["amazon_associates", "cloud_flare", "facebook_advertiser", "facebook_connect", "google_tag_manager", "microsoft_exchange_online", "outlook", "woo_commerce", "wordpress", "microsoft_office_365", "stripe", "twitter_button", "bing_advertiser", "conversio"],
+  "socialMedia": {},
+  "description": "Blaupunkt Sicherheitssysteme offers professional security solutions for homes, businesses, and apartments. They provide high-quality products and services for alarm systems, video surveillance, and internet-based security alerts.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

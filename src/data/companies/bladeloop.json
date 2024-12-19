@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10005",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Bladeloop",
+  "details": "Bladeloop IT Remarketing specializes in distributing high-quality, used servers and networking technology, including Blade and Rack servers, RAM, and parts.",
+  "requiredClearance": "PRIVATE",
+  "name": "Bladeloop",
+  "address": "N/A",
+  "zipCode": "3099244",
+  "city": "Germany",
+  "country": "Germany",
+  "logo": "https://logo.clearbit.com/bladeloop.com",
+  "images": [],
+  "category": ["Distributors", "Retailing"],
+  "tags": ["apache", "microsoft_exchange_online", "outlook", "typekit_by_adobe", "unix", "wordpress", "microsoft_office_365", "woo_commerce"],
+  "socialMedia": {},
+  "description": "Bladeloop IT Remarketing specializes in distributing high-quality, used servers and networking technology, including Blade and Rack servers, RAM, and parts.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10025",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "BUVTEC",
+  "details": "Buvtec Technik für Heim, Haus & Garten Die Firma BUV Handel ist ein Consultingunternehmen, das sich mit der Beratung von Handelsbetrieben (vor allem Filialisten) und Unternehmensgründungen beschäftigt.",
+  "requiredClearance": "PRIVATE",
+  "name": "BUVTEC",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Professional Services", "Commercial & Professional Services"],
+  "tags": ["google_tag_manager", "amazon_payments", "piwik", "nginx", "facebook_social_plugins"],
+  "socialMedia": {},
+  "description": "Buvtec Technik für Heim, Haus & Garten Die Firma BUV Handel ist ein Consultingunternehmen, das sich mit der Beratung von Handelsbetrieben (vor allem Filialisten) und Unternehmensgründungen beschäftigt.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

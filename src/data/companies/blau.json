@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10006",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "blau.de",
+  "details": "Blau.de offers affordable mobile phone tariffs for calls in Germany and the EU, with options for personalized plans and 5G services included.",
+  "requiredClearance": "PRIVATE",
+  "name": "blau.de",
+  "address": "N/A",
+  "zipCode": "60006",
+  "city": "Germany",
+  "country": "Germany",
+  "logo": "https://logo.clearbit.com/blau.de",
+  "images": [],
+  "category": ["Diversified Telecommunication Services", "Telecommunication Services"],
+  "tags": ["apache", "google_tag_manager", "media.net", "appnexus", "openx", "mediamath", "apache_tomcat", "the_trade_desk", "pubmatic", "rubicon_project", "bluekai", "adscale", "aggregate_knowledge", "iponweb_bidswitch"],
+  "socialMedia": {},
+  "description": "Blau.de offers affordable mobile phone tariffs for calls in Germany and the EU, with options for personalized plans and 5G services included.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

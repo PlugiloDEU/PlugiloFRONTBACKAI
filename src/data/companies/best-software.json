@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10003",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Best-Software",
+  "details": "Best Software is an online shop offering Microsoft Office, Windows OS, and antivirus solutions at competitive prices with telephone support available.",
+  "requiredClearance": "PRIVATE",
+  "name": "Best-Software",
+  "address": "N/A",
+  "zipCode": "324817",
+  "city": "Germany",
+  "country": "Germany",
+  "logo": "https://logo.clearbit.com/best-software.de",
+  "images": [],
+  "category": ["Internet Software & Services", "Software & Services"],
+  "tags": ["amazon_payments", "cloud_flare", "google_tag_manager", "recaptcha", "zendesk", "wordpress", "youtube", "twitter_button", "bing_advertiser", "google_analytics", "hotjar", "stripe"],
+  "socialMedia": {},
+  "description": "Best Software is an online shop offering Microsoft Office, Windows OS, and antivirus solutions at competitive prices with telephone support available.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

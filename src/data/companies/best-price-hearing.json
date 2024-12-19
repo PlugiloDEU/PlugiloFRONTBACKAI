@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10021",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Best Price Hearing",
+  "details": "Achieve optimal hearing health cost-effectively with the perfect hearing solution. We offer you the best hearing aids at affordable prices.",
+  "requiredClearance": "PRIVATE",
+  "name": "Best Price Hearing",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "",
+  "logo": "",
+  "images": [],
+  "category": ["Health Care Providers & Services", "Health Care Equipment & Services"],
+  "tags": ["amazon_payments", "cloud_flare", "facebook_advertiser", "facebook_connect", "shopify", "twitter_button", "go_squared"],
+  "socialMedia": {},
+  "description": "Achieve optimal hearing health cost-effectively with the perfect hearing solution. We offer you the best hearing aids at affordable prices.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["ENGLISH"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

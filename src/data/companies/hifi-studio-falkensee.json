@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10018",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Hifi Studio Falkensee",
+  "details": "Hifi Studio Falkensee is a Berlin-based company that specializes in providing high-quality audio equipment and services.",
+  "requiredClearance": "PRIVATE",
+  "name": "Hifi Studio Falkensee",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Household Durables", "Consumer Durables & Apparel"],
+  "tags": ["nginx", "xt_commerce", "recaptcha", "google_analytics"],
+  "socialMedia": {},
+  "description": "Hifi Studio Falkensee is a Berlin-based company that specializes in providing high-quality audio equipment and services.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

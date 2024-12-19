@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10022",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Boatman Futterboote",
+  "details": "Boatman Futterboote offers a range of boating and consumer goods, specializing in outdoor gear and adventure activities.",
+  "requiredClearance": "PRIVATE",
+  "name": "Boatman Futterboote",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Consumer Goods", "Consumer Durables & Apparel"],
+  "tags": ["google_tag_manager", "microsoft_exchange_online", "outlook", "woo_commerce", "wordpress", "youtube", "microsoft_office_365", "google_analytics"],
+  "socialMedia": {},
+  "description": "Boatman Futterboote offers a range of boating and consumer goods, specializing in outdoor gear and adventure activities.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

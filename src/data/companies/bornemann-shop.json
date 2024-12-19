@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10008",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Bornemann Shop",
+  "details": "Bornemann.shop offers cutting-edge hardware for GPS tracking, RTLS, and sensor technology, along with software solutions through the Bornemann Cloud.",
+  "requiredClearance": "PRIVATE",
+  "name": "Bornemann Shop",
+  "address": "N/A",
+  "zipCode": "",
+  "city": "",
+  "country": "United States",
+  "logo": "https://logo.clearbit.com/bornemann.shop",
+  "images": [],
+  "category": ["Wireless Telecommunication Services", "Telecommunication Services"],
+  "tags": ["apache", "digital_ocean", "facebook_advertiser", "facebook_connect", "google_tag_manager", "paypal"],
+  "socialMedia": {},
+  "description": "Bornemann.shop offers cutting-edge hardware for GPS tracking, RTLS, and sensor technology, along with software solutions through the Bornemann Cloud.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["ENGLISH"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

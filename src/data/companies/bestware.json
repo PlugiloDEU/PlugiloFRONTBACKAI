@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10010",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Bestware",
+  "details": "Bestware is an online shop specializing in high-end technology, offering a range of products including laptops, desktop PCs, VR/AR hardware, and accessories.",
+  "requiredClearance": "PRIVATE",
+  "name": "Bestware",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Distributors", "Retailing"],
+  "tags": ["aws_route_53", "magento", "magento_v2", "microsoft_exchange_online", "nginx", "outlook", "google_maps", "bing_advertiser", "conversio", "facebook_advertiser", "google_analytics", "google_tag_manager", "klaviyo", "recaptcha"],
+  "socialMedia": {},
+  "description": "Bestware is an online shop specializing in high-end technology, offering a range of products including laptops, desktop PCs, VR/AR hardware, and accessories.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

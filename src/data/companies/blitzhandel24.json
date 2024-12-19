@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10014",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Blitzhandel24",
+  "details": "Blitzhandel24 offers essential Windows Server solutions with precision and commitment to customer satisfaction.",
+  "requiredClearance": "PRIVATE",
+  "name": "Blitzhandel24",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Internet Software & Services", "Software & Services"],
+  "tags": ["amazon_payments", "cloud_flare", "google_tag_manager", "zendesk", "extend", "stripe"],
+  "socialMedia": {},
+  "description": "Blitzhandel24 offers essential Windows Server solutions with precision and commitment to customer satisfaction.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

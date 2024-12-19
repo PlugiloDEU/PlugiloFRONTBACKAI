@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10015",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "bestelectronic.de",
+  "details": "bestelectronic.de: German company providing high-quality electronics at affordable prices with fast shipping and reliable customer service.",
+  "requiredClearance": "PRIVATE",
+  "name": "bestelectronic.de",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Household Durables", "Consumer Durables & Apparel"],
+  "tags": ["amazon_payments", "cloud_flare", "facebook_connect", "google_tag_manager", "shopify", "trustpilot", "typekit_by_adobe", "klaviyo"],
+  "socialMedia": {},
+  "description": "bestelectronic.de: German company providing high-quality electronics at affordable prices with fast shipping and reliable customer service.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

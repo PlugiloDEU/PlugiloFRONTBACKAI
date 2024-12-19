@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10020",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "beyerdynamic",
+  "details": "beyerdynamic, a leading audio manufacturer since 1924, offers innovative audio products like microphones, headphones, and conference systems, all engineered and made in Germany.",
+  "requiredClearance": "PRIVATE",
+  "name": "beyerdynamic",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Household Durables", "Consumer Durables & Apparel"],
+  "tags": ["amazon_ses", "google_analytics", "google_tag_manager", "magento", "magento_v2", "microsoft_exchange_online", "new_relic", "nosto", "outlook", "microsoft_office_365", "instagram", "wistia", "appnexus", "openx", "mediamath", "the_trade_desk", "pubmatic", "saleslogix", "sap_sales_order_management", "rubicon_project", "microsoft_dynamics", "google_search_appliance", "facebook_conversion_tracking", "sap_crm", "zedo"],
+  "socialMedia": {},
+  "description": "beyerdynamic, a leading audio manufacturer since 1924, offers innovative audio products like microphones, headphones, and conference systems, all engineered and made in Germany.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

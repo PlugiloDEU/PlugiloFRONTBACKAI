@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10026",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Bronson",
+  "details": "Bronson specializes in portable lithium batteries, offering a new line of reliable power solutions.",
+  "requiredClearance": "PRIVATE",
+  "name": "Bronson",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "United States",
+  "logo": "",
+  "images": [],
+  "category": ["Electrical Equipment", "Capital Goods"],
+  "tags": ["google_apps", "google_tag_manager", "namecheap_dns"],
+  "socialMedia": {},
+  "description": "Bronson specializes in portable lithium batteries, offering a new line of reliable power solutions.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["ENGLISH"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

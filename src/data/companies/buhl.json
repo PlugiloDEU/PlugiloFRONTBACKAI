@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10027",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": ":buhl",
+  "details": ":buhl is the German market leader in financial and tax software. They develop software and apps that help users save on taxes, manage their finances, and stay organized in their office.",
+  "requiredClearance": "PRIVATE",
+  "name": ":buhl",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Internet Software & Services", "Software & Services"],
+  "tags": ["microsoft_exchange_online", "outlook", "wordpress", "android", "ios", "google_tag_manager", "youtube", "piwik", "stripe", "appnexus", "woo_commerce", "atlassian_confluence", "the_trade_desk", "mongodb", "rubicon_project", "salesforce", "mysql", "applepay", "atlassian_jira"],
+  "socialMedia": {},
+  "description": ":buhl is the German market leader in financial and tax software. They develop software and apps that help users save on taxes, manage their finances, and stay organized in their office.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

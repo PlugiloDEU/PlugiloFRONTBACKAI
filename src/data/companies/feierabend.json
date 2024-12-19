@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10024",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Feierabend",
+  "details": "Feierabend GmbH Bürotechnik & Büroeinrichtung is your partner for office furniture and office technology in the Bavarian Oberland and the southern Munich area, based in Bad Tölz.",
+  "requiredClearance": "PRIVATE",
+  "name": "Feierabend",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Specialty Retail", "Retailing"],
+  "tags": ["apache", "1_and_1_hosting", "woo_commerce", "wordpress", "google_tag_manager", "paypal"],
+  "socialMedia": {},
+  "description": "Feierabend GmbH Bürotechnik & Büroeinrichtung is your partner for office furniture and office technology in the Bavarian Oberland and the southern Munich area, based in Bad Tölz.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

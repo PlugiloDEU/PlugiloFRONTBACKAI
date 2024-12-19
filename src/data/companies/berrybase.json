@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10019",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "BerryBase",
+  "details": "BerryBase is an online maker shop for DIY electronics enthusiasts, offering a wide selection, fast delivery, and affordable prices for all your DIY projects.",
+  "requiredClearance": "PRIVATE",
+  "name": "BerryBase",
+  "address": "",
+  "zipCode": "",
+  "city": "",
+  "country": "Germany",
+  "logo": "",
+  "images": [],
+  "category": ["Electrical Equipment", "Capital Goods"],
+  "tags": ["amazon_payments", "bing_advertiser", "google_tag_manager", "nginx", "tawk", "hotjar", "piwik", "stripe"],
+  "socialMedia": {},
+  "description": "BerryBase is an online maker shop for DIY electronics enthusiasts, offering a wide selection, fast delivery, and affordable prices for all your DIY projects.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

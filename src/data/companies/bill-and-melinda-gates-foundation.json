@@ -1,0 +1,28 @@
+{
+  "name": "Bill & Melinda Gates Foundation",
+  "website": "https://www.gatesfoundation.org/",
+  "description": "The Bill & Melinda Gates Foundation is a private foundation founded by Bill and Melinda Gates. It is one of the largest private foundations in the world, aiming to enhance healthcare and reduce extreme poverty globally, and to expand educational opportunities and access to information technology in the United States.",
+  "founded": "2000",
+  "headquarters": "Seattle, Washington, USA",
+  "focusAreas": [
+    "Global Health",
+    "Global Development",
+    "Global Growth & Opportunity",
+    "United States Program"
+  ],
+  "keyPeople": [
+    {
+      "name": "Bill Gates",
+      "role": "Co-Chair"
+    },
+    {
+      "name": "Melinda French Gates",
+      "role": "Co-Chair"
+    }
+  ],
+  "contact": {
+    "email": "info@gatesfoundation.org",
+    "phone": "+1 (206) 709-3100"
+  },
+  "logo": "https://www.gatesfoundation.org/-/media/gfo/Images/logos/gates-foundation-logo.png"
+}

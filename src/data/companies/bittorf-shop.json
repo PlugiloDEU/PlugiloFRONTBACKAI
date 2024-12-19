@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10002",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Bittorf Shop",
+  "details": "",
+  "requiredClearance": "PRIVATE",
+  "name": "Bittorf Shop",
+  "address": "5678 Commerce Ave, Suite 200",
+  "zipCode": "5736254",
+  "city": "Germany",
+  "country": "Germany",
+  "logo": "https://logo.clearbit.com/bittorfshop.de",
+  "images": [],
+  "category": [],
+  "tags": ["google_analytics", "google_tag_manager", "woo_commerce"],
+  "socialMedia": {},
+  "description": "",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}

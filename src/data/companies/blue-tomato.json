@@ -1,0 +1,40 @@
+{
+  "id": "CORP-10007",
+  "status": "ACTIVE",
+  "level": "PRIVATE",
+  "lastAccessed": "2024-01-23",
+  "subject": "Blue Tomato",
+  "details": "Blue Tomato is the European retail leader for snowboarding, freeskiing, surfing, and streetwear, offering a wide selection of products from top brands to up-and-coming labels for passionate enthusiasts.",
+  "requiredClearance": "PRIVATE",
+  "name": "Blue Tomato",
+  "address": "N/A",
+  "zipCode": "42323",
+  "city": "Austria",
+  "country": "Austria",
+  "logo": "https://logo.clearbit.com/blue-tomato.com",
+  "images": [],
+  "category": ["Leisure Products", "Consumer Durables & Apparel"],
+  "tags": ["double_click", "facebook_connect", "google_tag_manager", "microsoft_exchange_online", "outlook", "shopify", "amazon_payments", "youtube", "tealium", "media.net", "splunk", "stripe", "appnexus", "sap_hybris_marketing", "trello", "cision", "cloudera", "couchdb", "openx", "atlassian_confluence", "microsoft_dynamics", "mongodb", "microsoft_project", "pubmatic", "rubicon_project", "salesforce", "klarna", "mysql", "sap_crm", "nopcommerce", "atlassian_jira"],
+  "socialMedia": {},
+  "description": "Blue Tomato is the European retail leader for snowboarding, freeskiing, surfing, and streetwear, offering a wide selection of products from top brands to up-and-coming labels for passionate enthusiasts.",
+  "sourceFound": "Company Website",
+  "ceo": "",
+  "previousCEOs": [],
+  "language": ["GERMAN"],
+  "taxId": "",
+  "metrics": {
+    "trustScore": 0,
+    "dealProbability": 0,
+    "annualRevenue": 0,
+    "yearOverYearGrowth": 0,
+    "marketShare": 0,
+    "topProducts": []
+  },
+  "verificationStatus": {
+    "name": {
+      "verified": false,
+      "lastChecked": "",
+      "verifiedBy": ""
+    }
+  }
+}
